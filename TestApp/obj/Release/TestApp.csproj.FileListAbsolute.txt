@@ -1,0 +1,6 @@
+C:\Users\446626\.git\TestApp\TestApp\bin\Release\TestApp.exe.config
+C:\Users\446626\.git\TestApp\TestApp\bin\Release\TestApp.exe
+C:\Users\446626\.git\TestApp\TestApp\bin\Release\TestApp.pdb
+C:\Users\446626\.git\TestApp\TestApp\obj\Release\TestApp.exe
+C:\Users\446626\.git\TestApp\TestApp\obj\Release\TestApp.pdb
+C:\Users\446626\.git\TestApp\TestApp\obj\Release\TestApp.csprojResolveAssemblyReference.cache

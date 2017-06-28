@@ -4,3 +4,9 @@ C:\TestApp\TestApp\bin\Debug\TestApp.pdb
 C:\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
 C:\TestApp\TestApp\obj\Debug\TestApp.exe
 C:\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\446626\.git\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\446626\.git\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\446626\.git\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\446626\.git\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\446626\.git\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\446626\.git\TestApp\TestApp\obj\Debug\TestApp.pdb
