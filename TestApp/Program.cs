@@ -19,7 +19,7 @@ namespace TestApp
 
         static void Main(string[] args)
         {
-            Console.WriteLine("test jenkins build 1");
+            Console.WriteLine("test jenkins build 2");
         }
     }
 }
