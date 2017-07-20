@@ -10,7 +10,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("merge check change 1 : branch develop");
+            Console.WriteLine("merge check change 1");
         }
     }
 }
