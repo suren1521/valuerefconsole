@@ -10,3 +10,9 @@ C:\Users\446626\.git\TestApp\TestApp\bin\Debug\TestApp.pdb
 C:\Users\446626\.git\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
 C:\Users\446626\.git\TestApp\TestApp\obj\Debug\TestApp.exe
 C:\Users\446626\.git\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\git\valuerefconsole\TestApp\bin\Debug\TestApp.exe.config
+C:\git\valuerefconsole\TestApp\bin\Debug\TestApp.exe
+C:\git\valuerefconsole\TestApp\bin\Debug\TestApp.pdb
+C:\git\valuerefconsole\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\git\valuerefconsole\TestApp\obj\Debug\TestApp.exe
+C:\git\valuerefconsole\TestApp\obj\Debug\TestApp.pdb

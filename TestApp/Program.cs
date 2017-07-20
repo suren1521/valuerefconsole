@@ -8,18 +8,9 @@ namespace TestApp
 {
     class Program
     {
-        public static void value(int num)
-        {
-            num++;
-        }
-        public static void reference(ref int num)
-        {
-            num++;
-        }
-
         static void Main(string[] args)
         {
-            Console.WriteLine("test jenkins build 3");
+            Console.WriteLine("merge check change 1");
         }
     }
 }
