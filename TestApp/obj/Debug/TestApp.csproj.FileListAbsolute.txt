@@ -16,3 +16,9 @@ C:\git\valuerefconsole\TestApp\bin\Debug\TestApp.pdb
 C:\git\valuerefconsole\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
 C:\git\valuerefconsole\TestApp\obj\Debug\TestApp.exe
 C:\git\valuerefconsole\TestApp\obj\Debug\TestApp.pdb
+C:\instance2\valuerefconsole\TestApp\bin\Debug\TestApp.exe.config
+C:\instance2\valuerefconsole\TestApp\bin\Debug\TestApp.exe
+C:\instance2\valuerefconsole\TestApp\bin\Debug\TestApp.pdb
+C:\instance2\valuerefconsole\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\instance2\valuerefconsole\TestApp\obj\Debug\TestApp.exe
+C:\instance2\valuerefconsole\TestApp\obj\Debug\TestApp.pdb
