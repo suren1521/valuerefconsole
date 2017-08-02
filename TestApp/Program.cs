@@ -12,7 +12,7 @@ namespace TestApp
         {
             Console.WriteLine("merge check change 1");
             Console.WriteLine("merge check change 2");
-
+            Console.WriteLine("merge commit from instance 2 in develop2");
             Console.WriteLine("merge commit from instance1 in master");
 
             Console.ReadLine();
